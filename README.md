@@ -1,7 +1,7 @@
 # AyahVerse at MAHED Shared Task: Fine-Tuning ArabicBERT for Hope & Hate Detection
 
-[![Paper](https://img.shields.io/badge/Paper-ArabicNLP%202025-blue)](https://aclanthology.org/2025.arabicnlp-sharedtasks.92/)
-[![Conference](https://img.shields.io/badge/Accepted-EMNLP%20Workshop-green)](https://sites.google.com/view/arabicnlp2025)
+[![Paper](https://img.shields.io/badge/Paper-ArabicNLP%202025-blue)](https://sites.google.com/view/arabicnlp2025)
+[![Conference](https://img.shields.io/badge/Accepted-EMNLP%20Workshop-green)](https://aclanthology.org/2025.arabicnlp-sharedtasks.92/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Official Implementation** of the paper presented at the **3rd ArabicNLP Workshop (co-located with EMNLP 2025)**.
